@@ -65,6 +65,6 @@ I am a **passionate self-learner** who enjoys breaking down complex systems to u
 
 <p align="center">
   <em>
-    “Understanding systems deeply is the first step toward securing them.”
+    “**Understanding systems deeply is the first step toward securing them**”
   </em>
 </p>
