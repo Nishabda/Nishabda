@@ -37,7 +37,7 @@ I am a **passionate self-learner** who enjoys breaking down complex systems to u
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js" />
 </p>
 
 ---
