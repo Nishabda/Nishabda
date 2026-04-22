@@ -54,7 +54,7 @@ I am a **passionate self-learner** who enjoys breaking down complex systems to u
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.nishabdashrestha.com.np](https://nishabdashrestha.com.np/)">
+  <a href="https://nishabdashrestha.com.np/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=portfolio" />
   </a>
 
